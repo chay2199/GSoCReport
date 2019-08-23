@@ -101,9 +101,9 @@
                 <div class="col m2">
                     <div class="card flex1">
                         <div class="card-content">
-                        <div class="center"><h5 class="light no-margin">Mentors</h5></div>
+                        <div class="center"><h5 class="light no-margin">Mentor</h5></div>
                         <br>
-                        <div class="center">{{ page.mentors  | markdownify }}</div>
+                        <div class="center">{{ page.mentor  | markdownify }}</div>
                         </div>
                     </div>
                 </div>
